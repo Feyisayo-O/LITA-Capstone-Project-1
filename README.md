@@ -10,7 +10,7 @@
    - [SQL Analysis](#sql-analysis)
    - [Power BI Dashboard](#power-bi-dashboard)
 5. [Key Insights](#key-insights)
-6. [Screenshots](#screenshots)
+6. [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 This project involves analyzing the sales performance of a retail store to uncover key insights, including top-selling products, regional performance, and monthly sales trends. The goal is to produce an interactive Power BI dashboard that highlights these findings.
@@ -52,13 +52,31 @@ This project involves analyzing the sales performance of a retail store to uncov
   - Monthly sales totals for the current year.
   - Top 5 customers by total purchase amount.
   - Percentage of total sales contributed by each region.
-- **Code**: 
-  ```SQL
+- **Code example**: Total sales for each product category.
+ ```sql
 select Product, SUM(Quantity) as Total_Sales_Category from Sales Data
-group by Product;
-  ```
-![SalesSql1](https://github.com/user-attachments/assets/3c9411eb-5bfb-4bdf-9158-a0aa861e966b)
-![SalesSql2](https://github.com/user-attachments/assets/b5f01078-7936-48ec-aca5-1e56d8165e20)
+group by Product
+ ```
+![SalesSql1](https://github.com/user-attachments/assets/c9237b8f-58c6-44e8-9e19-1f08bf16b224)
+![SalesSql2](https://github.com/user-attachments/assets/559cd6a9-b4d1-4fa5-8aaf-4b35646d2c84)
+
+### Power BI Dashboard
+- **Dashboard Creation**: Developed an interactive dashboard visualizing key sales insights.
+- **Features**: Included sales overview, top-performing products, and regional breakdowns.
+![Power BI Sales](https://github.com/user-attachments/assets/18561428-c669-40ce-8d87-0bad38fd9c11)
+
+## Key Insights
+  - The top-selling product is Hat, contributing 23.19% to total sales and was purchased mostly in the East region.
+  - The South region generated the highest revenue at $4,675,000 with 122,500 sales transactions.
+  - The monthly sales had no particular trend as it fluctuated. The most sales recorded were in February and July. The least sales recorded were in May and December.
+  - A total of $10,587,500 was generated in revenue with 345,000 sales recorded.
+
+Below are the dashboards for the years 2023 and 2024 respectively.
+![Power BI Sales 1](https://github.com/user-attachments/assets/8e58b47d-6fb5-4f10-85d3-f4eed5c55bc2)
+![Power BI Sales 2](https://github.com/user-attachments/assets/e7e6050f-8fb8-4240-9945-d69a9344b23d)
+
+## Acknowledgements
+  - Special thanks to the instructors at The Incubator Hub for guidance throughout the learning period.
 
 
 
