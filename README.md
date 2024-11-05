@@ -53,14 +53,15 @@ This project involves analyzing the sales performance of a retail store to uncov
   - Top 5 customers by total purchase amount.
   - Percentage of total sales contributed by each region.
 - **Code**: 
-  ```sql
+  ```SQL
 select Product, SUM(Quantity) as Total_Sales_Category from Sales Data
 group by Product;
   ```
+![SalesSql1](https://github.com/user-attachments/assets/3c9411eb-5bfb-4bdf-9158-a0aa861e966b)
+![SalesSql2](https://github.com/user-attachments/assets/b5f01078-7936-48ec-aca5-1e56d8165e20)
 
-![SQL S 1](https://github.com/user-attachments/assets/be62340c-b379-4253-a160-ceeda9ce7dc9)
 
-![SQL S 2](https://github.com/user-attachments/assets/98627f75-f55c-42f4-9146-9858060a972e)
+
 
 
 
