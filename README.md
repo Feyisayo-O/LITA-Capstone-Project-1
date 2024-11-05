@@ -18,4 +18,10 @@ This project involves analyzing the sales performance of a retail store to uncov
 ## Tools Used
 - **Excel**: For initial data exploration and analysis.
 - **SQL Server**: For querying and extracting insights from the dataset.
-- **Power BI**: For creating an interactive dashboard.
+- **Power BI**: This was used to create an interactive dashboard.
+
+## Dataset Description
+- **Source**: []
+- **Description**: Briefly describe the dataset (e.g., size, features, etc.).
+- **Data Dictionary**: Include a brief explanation of the columns and their meanings.
+
