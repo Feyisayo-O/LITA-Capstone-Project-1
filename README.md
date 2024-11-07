@@ -73,6 +73,7 @@ group by Product
 
 Below are the dashboards for the years 2023 and 2024, and their key insights respectively.
 ![Power BI Sales 1](https://github.com/user-attachments/assets/8e58b47d-6fb5-4f10-85d3-f4eed5c55bc2)
+ 
  For the year 2023,
   - The top-selling product was Shirt with 42,500 sales recorded and purchased mostly in the East region.
   - The South region generated the highest revenue at $2,425,000 contributing 43.5% of the total revenue. It also had the highest sales with 67,500 sales contributing to 34.62% of total sales.
@@ -80,7 +81,8 @@ Below are the dashboards for the years 2023 and 2024, and their key insights res
   - In total, $5,575,500 was generated in revenue with 195,000 sales recorded.
 
 ![Power BI Sales 2](https://github.com/user-attachments/assets/e7e6050f-8fb8-4240-9945-d69a9344b23d)
- For the year 2023,
+ 
+ For the year 2024,
   - The top-selling product was Hat with 45,000 sales recorded and purchased mostly in the East region.
   - The South region generated the highest revenue at $2,250,000 contributing 44.89% of the total revenue. It also had the highest sales with 55,000 sales contributing to 36.67% of total sales.
   The monthly sales initially increased from January to March after which it fluctuated. The most sales were recorded in June, and the fewest were recorded in May.
