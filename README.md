@@ -27,7 +27,7 @@ This project involves analyzing the sales performance of a retail store to uncov
 ## Steps Undertaken
 
 ### Data Preparation
-- **Loaded Data**: Imported the dataset into Excel and SQL Server.
+- **Loaded Data**: Imported the dataset into Excel, SQL Server and Power BI.
 - **Data Cleaning**: Checked for missing values and performed necessary data cleaning.
 
 
